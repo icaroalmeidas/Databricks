@@ -6,15 +6,11 @@ Uma das ferramentas mais utilizadas hoje por várioas setores como ferramenta ba
 
 ...clusters de processamento e a arquitetura Lakehouse.
 
-Estrutura do Databricks: O Lakehouse
-
 O Databricks introduziu e popularizou o conceito de Lakehouse, que é a evolução natural da engenharia de dados. Essa arquitetura combina as melhores características dos Data Lakes e dos Data Warehouses:
 
 Data Lake: Armazena uma quantidade massiva de dados brutos (estruturados, semiestruturados e não estruturados) de forma econômica e flexível.
 Data Warehouse: Oferece dados estruturados e otimizados para análise, com alta performance, governança e confiabilidade (transações ACID).
 O Lakehouse, implementado através da camada Delta Lake, permite que você execute consultas de BI e analytics diretamente sobre os dados no seu Data Lake, com a mesma confiabilidade e performance de um Data Warehouse. Isso elimina a necessidade de manter sistemas separados e complexos, simplificando a arquitetura e reduzindo custos.
-
-A Importância de Aprender Databricks para a Área de Dados
 
 Dominar Databricks e Apache Spark é um diferencial estratégico para qualquer profissional de dados, pelos seguintes motivos:
 
